@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Deepanshu 👋
 
-<!--
-**DeepanshuAI/DeepanshuAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer  
+🚀 Building websites and applications
 
-Here are some ideas to get you started:
+## Skills
+HTML | CSS | JavaScript | React | Node.js | MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+📝 Custom websites
+🌐 Tourism Website  
+📚 Library Management System  
+🎓 Student Management System
+
+## Connect with me
+LinkedIn: https://www.linkedin.com/in/deepanshu-yadav-484a82270
+Portfolio: https://portfolio-xi-ecru-y3h6r854d4.vercel.app/
