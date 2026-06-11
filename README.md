@@ -1,4 +1,13 @@
-# Hi, I'm Deepanshu 👋
+<h1 align="center">Deepanshu</h1>
+
+<p align="center">
+  Full Stack Developer | MERN Stack
+</p>
+
+<p align="center">
+  <img src="banner.png" width="800">
+</p>
+#Hi, I'm Deepanshu 👋
 
 💻 Full Stack Developer  
 🚀 Building websites and applications
