@@ -7,9 +7,7 @@
 <p align="center">
   <img src="banner.png" width="800">
 </p>
-#Hi, I'm Deepanshu 👋
 
-💻 Full Stack Developer  
 🚀 Building websites and applications
 
 ## Skills
