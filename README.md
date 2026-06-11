@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="banner.png" width="800">
+  <img src="New Project 4 [980E44E].png" width="800">
 </p>
 
 🚀 Building websites and applications
