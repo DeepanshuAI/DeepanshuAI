@@ -1,19 +1,10 @@
-<!-- ==========================================
-     PREMIUM GITHUB PROFILE README
-     Author: Antigravity Code Assistant
-     For: DeepanshuAI (Full Stack Web Developer)
-     ==========================================
-     INSTRUCTIONS FOR CUSTOMIZATION:
-     - Search for "EDIT HERE" comments to change URLs, usernames, or text.
-     - Push the images (banner.svg and divider.svg) to your repository.
-     ========================================== -->
 
 <p align="center">
-  <!-- EDIT HERE: Replace DeepanshuAI with your repo name if you push to a different repo -->
-  <img src="banner.svg" alt="Deepanshu Tolani's Developer Banner" width="100%">
+  
+  <img src="banner.svg" alt="" width="100%">
 </p>
 
-<!-- Visitor Counter & Badges -->
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DeepanshuAI&amp;color=00f2fe&amp;style=flat-square&amp;label=PROFILE+VIEWS" alt="Profile Views" />
   &nbsp;&nbsp;|&nbsp;&nbsp;
@@ -28,7 +19,7 @@
 
 ## 🧑‍💻 About Me
 
-Hello! I'm **Deepanshu Tolani**, a passionate **Full Stack Web Developer** focused on building elegant, scalable, and user-centric web applications. I love turning complex problems into simple, beautiful, and intuitive code. 
+Hello! I'm **Deepanshu Yadav**, a passionate **Full Stack Web Developer** focused on building elegant, scalable, and user-centric web applications. I love turning complex problems into simple, beautiful, and intuitive code. 
 
 - 🚀 **Full-Stack Focus:** I specialize in constructing scalable web applications using the **MERN Stack** (MongoDB, Express.js, React, Node.js).
 - 🎨 **UI/UX & Architecture:** I bridge the gap between backend architecture robustness and frontend responsive design excellence.
@@ -42,7 +33,7 @@ Hello! I'm **Deepanshu Tolani**, a passionate **Full Stack Web Developer** focus
 ## 🛠️ Tech Stack & Skills
 
 <p align="center">
-  <!-- Frontend Badges -->
+
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
@@ -52,7 +43,7 @@ Hello! I'm **Deepanshu Tolani**, a passionate **Full Stack Web Developer** focus
 </p>
 
 <p align="center">
-  <!-- Backend & Database Badges -->
+
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
@@ -60,7 +51,7 @@ Hello! I'm **Deepanshu Tolani**, a passionate **Full Stack Web Developer** focus
 </p>
 
 <p align="center">
-  <!-- Tools & Platform Badges -->
+
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code" />
@@ -73,14 +64,14 @@ Hello! I'm **Deepanshu Tolani**, a passionate **Full Stack Web Developer** focus
 
 ## 📊 GitHub Analytics
 
-<!-- Trophies section at the top -->
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=DeepanshuAI&amp;theme=onedark&amp;no-background=true&amp;no-border=true&amp;margin-w=15&amp;margin-h=15" alt="GitHub Trophies" />
   </a>
 </p>
 
-<!-- Stats and Languages side-by-side -->
+
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td valign="top" width="50%">
@@ -255,7 +246,7 @@ Let's discuss development, project collaborations, or potential job opportunitie
 
 <p align="center">
   <!-- EDIT HERE: Replace placeholders with your actual URLs and email address -->
-  <a href="mailto:your.email@example.com">
+  <a href="Deepanshu4551@gmail.com.com">
     <img src="https://img.shields.io/badge/Email-your.email%40example.com-00f2fe?style=for-the-badge&amp;logo=gmail&amp;logoColor=black" alt="Email" />
   </a>
   &nbsp;&nbsp;
@@ -267,13 +258,13 @@ Let's discuss development, project collaborations, or potential job opportunitie
     <img src="https://img.shields.io/badge/Portfolio-Website-00f2fe?style=for-the-badge&amp;logo=vercel&amp;logoColor=black" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://x.com/yourhandle">
+  <!-- <a href="https://x.com/yourhandle">
     <img src="https://img.shields.io/badge/Twitter-@yourhandle-9d4edd?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="Twitter" />
-  </a>
-  &nbsp;&nbsp;
+  </a> -->
+  <!-- &nbsp;&nbsp;
   <a href="https://instagram.com/yourhandle">
     <img src="https://img.shields.io/badge/Instagram-@yourhandle-00f2fe?style=for-the-badge&amp;logo=instagram&amp;logoColor=black" alt="Instagram" />
-  </a>
+  </a> -->
 </p>
 
 <p align="center">
