@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DeepanshuAI&amp;color=00f2fe&amp;style=flat-square&amp;label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="[https://komarev.com/ghpvc/?username=DeepanshuAI&amp;color=00f2fe&amp;style=flat-square&amp;label=PROFILE+VIEWS](https://i.pinimg.com/236x/49/80/1b/49801b4e50af5338c113bc79c6c30ceb.jpg)" alt="Profile Views" />
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/DeepanshuAI?label=Followers&amp;style=flat-square&amp;color=9d4edd" alt="GitHub Followers" />
   &nbsp;&nbsp;|&nbsp;&nbsp;
