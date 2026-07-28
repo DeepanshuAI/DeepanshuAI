@@ -12,6 +12,7 @@
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Status-Open_For_Work-00f2fe?style=flat-square" alt="Status" />
 </p>
+<img width="1024" height="1024" alt="2f3f0210ddd06dcb863a689d93e99345" src="https://github.com/user-attachments/assets/eeef842f-f30b-4158-9472-490880f0069e" />
 
 <p align="center">
   <img src="divider.svg" alt="Section Divider" width="100%">
@@ -277,7 +278,7 @@ Let's discuss development, project collaborations, or potential job opportunitie
   <tr>
     <!-- Coding GIF -->
     <td align="center" width="50%" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hmdDgwOGU3ODNtdmdodjJ1bzA4MGZxbHR4ZnBscHMyZWZ0ajJ0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding GIF" width="320" style="border-radius: 8px; border: 1px solid rgba(255, 255, 255, 0.1);" />
+      <img src="![Uploading 2f3f0210ddd06dcb863a689d93e99345.jpg…]()" alt="Coding GIF" width="320" style="border-radius: 8px; border: 1px solid rgba(255, 255, 255, 0.1);" />
     </td>
     <!-- Dev Quote Widget -->
     <td align="center" width="50%" valign="middle">
