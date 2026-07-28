@@ -12,7 +12,7 @@
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Status-Open_For_Work-00f2fe?style=flat-square" alt="Status" />
 </p>
-<img width="1024" height="1024" alt="2f3f0210ddd06dcb863a689d93e99345" src="https://github.com/user-attachments/assets/eeef842f-f30b-4158-9472-490880f0069e" />
+<img width="104" height="104" alt="2f3f0210ddd06dcb863a689d93e99345" src="https://github.com/user-attachments/assets/eeef842f-f30b-4158-9472-490880f0069e" />
 
 <p align="center">
   <img src="divider.svg" alt="Section Divider" width="100%">
