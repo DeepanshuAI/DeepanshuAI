@@ -16,9 +16,8 @@
   <br>
 
   <p align="center">
-    <a href="https://deepanshu.ai"><b>[ PORTFOLIO ]</b></a> &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://twitter.com/deepanshuai"><b>[ TWITTER ]</b></a> &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://linkedin.com/in/deepanshuai"><b>[ LINKEDIN ]</b></a>
+    <a href="https://portfo1io-ashen.vercel.app/"><b> PORTFOLIO </b></a> &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/deepanshuai](https://www.linkedin.com/in/deepanshu-yadav-484a82270/"><b> LINKEDIN </b></a>
   </p>
   
   <br><br>
