@@ -1,103 +1,149 @@
-
-<p align="center">
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/DeepanshuAI?label=Followers&amp;style=flat-square&amp;color=9d4edd" alt="GitHub Followers" />
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Status-Open_For_Work-00f2fe?style=flat-square" alt="Status" />
-</p>
-<img width="104" height="104" alt="2f3f0210ddd06dcb863a689d93e99345" src="https://github.com/user-attachments/assets/eeef842f-f30b-4158-9472-490880f0069e" />
-
 <div align="center">
-  <br />
-  <h1>Deepanshu</h1>
-  <p><b>Developer. Builder. Creative Technologist.</b></p>
-  <p>Crafting high-performance, visually immersive digital experiences.</p>
-  <br />
-  <p>
-    <a href="https://deepanshu.ai"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Website" /></a>
-    <a href="https://twitter.com/deepanshuai"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-    <a href="mailto:contact@deepanshu.ai"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <br><br><br>
+  
+  <h1 align="center">D E E P A N S H U</h1>
+  
+  <p align="center">
+    <kbd> DEVELOPER </kbd> &nbsp; / &nbsp; <kbd> BUILDER </kbd> &nbsp; / &nbsp; <kbd> CREATIVE TECHNOLOGIST </kbd>
   </p>
-  <br />
+
+  <br>
+  
+  <p align="center">
+    <i>Building digital products, intelligent systems, and immersive web experiences.</i>
+  </p>
+
+  <br>
+
+  <p align="center">
+    <a href="https://deepanshu.ai"><b>[ PORTFOLIO ]</b></a> &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://twitter.com/deepanshuai"><b>[ TWITTER ]</b></a> &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/deepanshuai"><b>[ LINKEDIN ]</b></a>
+  </p>
+  
+  <br><br>
 </div>
 
-## ✦ Identity
+---
 
-I am a software engineer and creative technologist operating at the intersection of **exceptional UI design** and **scalable engineering**. I build developer tools, AI-powered applications, and digital platforms that don't just work—they feel incredible to use. My work bridges the gap between sophisticated backend logic and premium frontend aesthetics.
+<br>
 
-<br />
+### `01 / THE BUILDER`
 
-## ✦ What I Build
+I operate at the intersection of **exceptional UI design** and **scalable engineering**. I build developer tools, AI-powered applications, and digital platforms that don't just work—they feel incredible to use. 
+
+My work bridges the gap between sophisticated backend logic and premium frontend aesthetics. I believe code is a medium for art as much as it is for utility.
+
+<br><br>
+
+### `02 / WHAT I CREATE`
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>🌐 Full-Stack Platforms</h3>
-      <p>Production-quality web applications built for speed, scale, and high information density. I focus heavily on modern component-driven architectures.</p>
+    <td width="50%" valign="top">
+      <h4><code>01</code> PRODUCT ENGINEERING</h4>
+      <p>Production-quality web applications built for speed, scale, and high information density. Architecting systems that can scale while maintaining a flawless user experience.</p>
     </td>
-    <td width="50%">
-      <h3>✨ Immersive Interfaces</h3>
-      <p>Highly interactive, animated, and visually expressive web experiences that prioritize fluid motion, micro-interactions, and aesthetics.</p>
+    <td width="50%" valign="top">
+      <h4><code>02</code> IMMERSIVE WEB</h4>
+      <p>Highly interactive, animated, and visually expressive web experiences. Focusing on WebGL, fluid motion, micro-interactions, and cinematic aesthetics.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>🤖 AI Products</h3>
+    <td width="50%" valign="top">
+      <h4><code>03</code> AI SYSTEMS</h4>
       <p>Integrating large language models and machine learning pipelines into seamless, intuitive user workflows without the generic "AI dashboard" look.</p>
     </td>
-    <td width="50%">
-      <h3>🛠️ Developer Tools</h3>
+    <td width="50%" valign="top">
+      <h4><code>04</code> DEVELOPER TOOLS</h4>
       <p>CLI utilities, automation scripts, and infrastructure tools designed to drastically reduce friction in the software development lifecycle.</p>
     </td>
   </tr>
 </table>
 
-<br />
+<br><br>
 
-## ✦ Current Momentum
+### `03 / SELECTED WORK`
 
-**[NextGen-Platform](https://github.com/deepanshuai/NextGen-Platform)**  
-A comprehensive developer workspace reimagining standard development workflows with a visually stunning, highly optimized interface.  
-`React` · `TypeScript` · `Vite` · `CSS`  
-*Status: Active Development*
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <h3>NextGen-Platform</h3>
+      <p>The core infrastructure for a next-generation developer experience. Highly scalable and visually stunning. Built to redefine the developer workspace.</p>
+      <br>
+      <p><code>React</code> &nbsp;<code>TypeScript</code> &nbsp;<code>Vite</code> &nbsp;<code>TailwindCSS</code></p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <i>Active Development</i>
+      <br><br>
+      <a href="https://github.com/deepanshuai/NextGen-Platform"><b>→ Explore Repository</b></a>
+    </td>
+  </tr>
+</table>
 
-<br />
+<br>
 
-## ✦ Selected Work
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <h3>React Fluid Animations</h3>
+      <p>A high-performance library for creating fluid simulations and interactive backgrounds in React applications using WebGL.</p>
+      <br>
+      <p><code>JavaScript</code> &nbsp;<code>React</code> &nbsp;<code>WebGL</code> &nbsp;<code>Canvas</code></p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <i>Shipped</i>
+      <br><br>
+      <a href="https://github.com/deepanshuai/react-fluid-animations"><b>→ Explore Repository</b></a>
+    </td>
+  </tr>
+</table>
 
-### [react-fluid-animations](https://github.com/deepanshuai/react-fluid-animations)
-A high-performance library for creating fluid simulations and interactive backgrounds in React applications using WebGL.  
-`JavaScript` `React` `WebGL`
+<br>
 
-### [machine-learning-core](https://github.com/deepanshuai/machine-learning-core)
-Core machine learning utilities optimized for WebGL and WebGPU inference directly in the browser.  
-`Python` `TensorFlow.js`
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <h3>Machine Learning Core</h3>
+      <p>Core machine learning utilities optimized for WebGL and WebGPU inference directly in the browser. Zero-latency edge computation.</p>
+      <br>
+      <p><code>Python</code> &nbsp;<code>TensorFlow.js</code> &nbsp;<code>WebGPU</code></p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <i>Shipped</i>
+      <br><br>
+      <a href="https://github.com/deepanshuai/machine-learning-core"><b>→ Explore Repository</b></a>
+    </td>
+  </tr>
+</table>
 
-### [private-api-services](https://github.com/deepanshuai/private-api-services)
-Highly scalable backend services handling real-time data processing and websocket management for high-frequency clients.  
-`Node.js` `Redis` `PostgreSQL`
+<br><br>
 
-<br />
+### `04 / TECHNOLOGY`
 
-## ✦ Technical Arsenal
+> **LANGUAGES**&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;TypeScript · JavaScript · Python · HTML/CSS  
+> **FRONTEND**&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;React · Next.js · Vite · TailwindCSS · Framer Motion  
+> **BACKEND**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;Node.js · Express · PostgreSQL · Redis · REST APIs  
+> **SYSTEMS**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;Git · GitHub Actions · Docker · Vercel
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | `TypeScript` `JavaScript` `Python` `HTML/CSS` |
-| **Frontend** | `React` `Next.js` `Vite` `TailwindCSS` `Framer Motion` |
-| **Backend** | `Node.js` `Express` `PostgreSQL` `Redis` `REST APIs` |
-| **DevOps** | `Git` `Docker` `GitHub Actions` `Vercel` |
+<br><br>
 
-<br />
-
-## ✦ Activity
+### `05 / ACTIVITY`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepanshuai&show_icons=true&theme=transparent&hide_border=true&title_color=8a4af3&icon_color=8a4af3&text_color=777777" alt="Deepanshu's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deepanshuai&show_icons=true&theme=transparent&hide_border=true&title_color=8a4af3&icon_color=8a4af3&text_color=777777" alt="GitHub Stats" />
 </div>
 
-<br />
+<br><br><br>
+
+---
+
+<br><br>
 
 <div align="center">
-  <i>"Design is not just what it looks like and feels like. Design is how it works."</i>
+  <h3>Let's build something interesting.</h3>
+  <br>
+  <a href="mailto:contact@deepanshu.ai"><b>contact@deepanshu.ai</b></a>
 </div>
+
+<br><br><br>
